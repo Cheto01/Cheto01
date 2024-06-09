@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cheto01
 - 👀 I’m interested in machine learning and the metaverse
-- 🌱 I’m currently learning NLP and its potentials in the medical domain
-- 💞️ I’m looking to collaborate on Any NLP related projects
+- 🌱 I’m currently working as an AI tech lead at Eyes JAPAN
+- 💞️ I’m looking to collaborate on any AI-related projects
 - 📫 How to reach me? send me an email: d8222105@gmail.com
 
 <!---
